@@ -1,3 +1,4 @@
+/* Result: WA 0 */
 #include <iostream>
 #include <cstring>
 #include <cstdio>

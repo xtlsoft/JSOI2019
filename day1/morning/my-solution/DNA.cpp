@@ -1,3 +1,4 @@
+/* Result: TLE 80 */
 #include <iostream>
 #include <string>
 #include <cstdio>

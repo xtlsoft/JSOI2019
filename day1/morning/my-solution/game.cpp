@@ -1,3 +1,4 @@
+/* Result: AC 100 */
 #include <iostream>
 #include <queue>
 #include <cmath>
